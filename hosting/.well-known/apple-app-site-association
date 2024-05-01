@@ -1,0 +1,11 @@
+{
+  "applinks": {
+      "apps": [],
+      "details": [
+      {
+        "appID": "PNRW3X92CC.jp.motucraft.deeplink",
+        "paths": ["*"]
+      }
+    ]
+  }
+}
