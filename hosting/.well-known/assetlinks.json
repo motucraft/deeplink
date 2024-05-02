@@ -1,9 +1,14 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "jp.motucraft.deeplink",
-    "sha256_cert_fingerprints":
-    ["C8:CF:9C:DE:91:80:69:28:5F:DB:AD:2B:78:B8:FA:A9:4C:A1:92:E4:3E:5A:F2:5D:01:61:E1:F3:C5:C0:8E:76"]
-  }
-}]
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "jp.motucraft.deeplink",
+            "sha256_cert_fingerprints": [
+                "C8:CF:9C:DE:91:80:69:28:5F:DB:AD:2B:78:B8:FA:A9:4C:A1:92:E4:3E:5A:F2:5D:01:61:E1:F3:C5:C0:8E:76"
+            ]
+        }
+    }
+]
