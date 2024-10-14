@@ -94,7 +94,7 @@ class SampleContent extends StatelessWidget {
       content: Column(
         mainAxisSize: MainAxisSize.min,
         children: [
-          const Text('Sample Content'),
+          const Text('Sample Content with go_router'),
           const SizedBox(height: 12),
           ElevatedButton(
             onPressed: context.pop,
